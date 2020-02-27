@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds&display=swap');
+
+
+
+body {
+
+  background-image: url('https://images2.alphacoders.com/779/77982.jpg');
+  background-size: cover;
+  color: #fff;
+  font-family: 'Trade Winds';
+
+
+}
+
+
+
+
+.main {
+  width: auto;
+  height: 40vh;
+  margin-top: 8vh;
+  display: flex;
+
+}
+
+.main #content {
+  width: 30%;
+  height: 100%;
+  margin-left: 15vw;
+  color: #888;
+}
+
+.main #content h1 {
+  color: #eee;
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, .1),
+    -5px -5px 10px rgba(255, 255, 255, 1);
+  font-size: 3em;
+  opacity: 1;
+
+
+
+}
+
+
+
+
+
+
+.quote {
+  padding: 45px 40px 40px 40px;
+  text-align: center;
+  font-size: 25px;
+
+
+
+}
+
+#button {
+  padding: 10px 10px;
+
+
+
+
+}
